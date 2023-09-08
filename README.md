@@ -4,7 +4,7 @@ The Bank Account Management System (BAMS),  is an application for maintaining a 
 - **By:** Mohamed Aden Ighe
 - **Ref No.:** BSD123AY943
 - **Supervisor:** Dr. SHADI HILLES. 
-- **For Semi-final** (October/November 2015)
+- **Development dates** October 2015 to January 2016 
 
 # Introduction 
 - The Bank Account Management System (BAMS),  is an application for maintaining a person's account in a bank, which is responsible for the daily transactions.
