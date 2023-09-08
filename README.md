@@ -10,5 +10,10 @@ The Bank Account Management System (BAMS),  is an application for maintaining a 
 - The Bank Account Management System (BAMS),  is an application for maintaining a person's account in a bank, which is responsible for the daily transactions.
 - A local bank, BICM Bank is responsible for managing the system 24/7. 
 - It retains the information of a persons account, withdrawals, deposits and viewing account details. 
-- There a 2 types of A/C types which include Personal and Savings. It can’t be changed once the account is created. Instead, the client can open another account with another A/C type. 
-![image](https://github.com/katarighe/bank-account-management-system/assets/80690364/192ac200-cb10-4b69-bd34-7846b149a647)
+- There a 2 types of A/C types which include Personal and Savings. It can’t be changed once the account is created. Instead, the client can open another account with another A/C type.
+- A client opens accounts at a branch. Each account is uniquely identified by an account number starting with 10 to 999.
+- It has an exact balance and a withdrawal, transfer or deposit limit. 
+- When a person does a transaction such as deposit or withdrawal, it is required for the user to login for authentication before proceeding with the action. Otherwise, the transaction will be rejected. 
+- This applies when a user requests his/her account to be terminated. 
+
+#
