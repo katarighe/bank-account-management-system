@@ -16,4 +16,15 @@ The Bank Account Management System (BAMS),  is an application for maintaining a 
 - When a person does a transaction such as deposit or withdrawal, it is required for the user to login for authentication before proceeding with the action. Otherwise, the transaction will be rejected. 
 - This applies when a user requests his/her account to be terminated. 
 
+# Stages of the Project (Main Menu)
+1) Create New Account (to create new account)
+Enter Account No.
+Account Type (Current/Savings)
+2) Cash Deposit (to deposit money from your A/C)
+3) Cash Withdrawal (to withdraw money from your A/C)
+4) Balance Enquiry (to view your balance details)
+5) Account Details (to view your A/C details)
+6) [Request for] Account Termination (to request for A/C to be closed)
+7) Exit the program (to leave to program for good)
+
 #
