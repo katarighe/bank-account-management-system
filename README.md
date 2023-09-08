@@ -1,10 +1,10 @@
 # Bank Account Management System (BAMS)
 The Bank Account Management System (BAMS),  is an application for maintaining a person's account in a bank, which is responsible for the daily transactions. A local bank, BICM Bank is responsible for managing the system 24/7. 
 
-By: Mohamed Aden Ighe
-Ref No.: BSD123AY943
-Supervisor: Dr. SHADI HILLES. 
-For Semi-final (October/November 2015)
+- **By:** Mohamed Aden Ighe
+- **Ref No.:** BSD123AY943
+- **Supervisor:** Dr. SHADI HILLES. 
+- **For Semi-final** (October/November 2015)
 
 # Introduction 
 - The Bank Account Management System (BAMS),  is an application for maintaining a person's account in a bank, which is responsible for the daily transactions.
