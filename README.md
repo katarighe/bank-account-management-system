@@ -18,8 +18,8 @@ The Bank Account Management System (BAMS),  is an application for maintaining a 
 
 # Stages of the Project (Main Menu)
 1) Create New Account (to create new account)
-Enter Account No.
-Account Type (Current/Savings)
+ - Enter Account No.
+- Account Type (Current/Savings)
 2) Cash Deposit (to deposit money from your A/C)
 3) Cash Withdrawal (to withdraw money from your A/C)
 4) Balance Enquiry (to view your balance details)
@@ -27,4 +27,10 @@ Account Type (Current/Savings)
 6) [Request for] Account Termination (to request for A/C to be closed)
 7) Exit the program (to leave to program for good)
 
-#
+# System Analysis (Diagrams)
+
+## Flowchart Diagram
+![image](https://github.com/katarighe/bank-account-management-system/assets/80690364/5008848f-d5d4-4588-a2a9-1214f37ce702)
+
+## Class Diagram
+![image](https://github.com/katarighe/bank-account-management-system/assets/80690364/74628c70-721a-4403-ab24-4d75069057fe)
