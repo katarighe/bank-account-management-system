@@ -36,6 +36,6 @@ The Bank Account Management System (BAMS),  is an application for maintaining a 
 ![image](https://github.com/katarighe/bank-account-management-system/assets/80690364/74628c70-721a-4403-ab24-4d75069057fe)
 
 # Related work
-## Work #1
+## Work #1 (R-Bank Management System (Open Source))
 ![image](https://github.com/katarighe/bank-account-management-system/assets/80690364/de748c4f-f1b9-4ba1-b634-9fc80e446784)
 
